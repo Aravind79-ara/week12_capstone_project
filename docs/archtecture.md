@@ -1,0 +1,1 @@
+The system uses a FastAPI backend, React frontend, and Docker-based deployment.
